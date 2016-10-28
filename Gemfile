@@ -56,9 +56,9 @@ end
 
 group :test do
   gem 'cucumber-rails', :require => false
-  gem 'cucumber-rails-training-wheels'
-  gem 'capybara'
-  gem "capybara-webkit"
+  #gem 'cucumber-rails-training-wheels'
+  #gem 'capybara'
+  #gem "capybara-webkit"
   gem 'selenium-webdriver'
   gem 'database_cleaner'
 end
